@@ -13,7 +13,7 @@
   "license": "MIT",
   "main": "weakmap.js",
   "dependencies": {
-    "feature-detect": "^0.0.2"
+    "feature-detect": "1.0.0"
   },
   "devDependencies": {},
   "repository": {
