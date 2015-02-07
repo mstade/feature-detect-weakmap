@@ -10,5 +10,18 @@
     "weakmap"
   ],
   "author": "Marcus Stade",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "weakmap.js",
+  "dependencies": {
+    "feature-detect": "^0.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstade/feature-detect-weakmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mstade/feature-detect-weakmap/issues"
+  },
+  "homepage": "https://github.com/mstade/feature-detect-weakmap"
 }
