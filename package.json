@@ -1,0 +1,14 @@
+{
+  "name": "feature-detect-weakmap",
+  "version": "1.0.0",
+  "description": "Feature detect WeakMap at installation time",
+  "scripts": {
+    "install": "feature-detect weakmap"
+  },
+  "keywords": [
+    "feature-detect",
+    "weakmap"
+  ],
+  "author": "Marcus Stade",
+  "license": "MIT"
+}
